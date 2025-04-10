@@ -33,7 +33,7 @@ Submit / revisi GitHub lewat Deadline = tidak diterima
 #
 **Pengumpulan Tugas**
 
-Fork repository ini dan rename menjadi NAMA_NIM_UTS_AP1
+Fork repository ini dan rename menjadi NAMA_NIM_UTS_AP2
 
 #
 
