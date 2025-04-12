@@ -15,7 +15,7 @@ b. Kirim link repo GitHub kalian di https://forms.gle/StSG8xgop4Yxbm1f8. Deadlin
 c. WAJIB chat Asisten Lab setelah submit link GForm 
 
 #
-**Jadwal Presentasi🗓️ 20 - 25 April:**
+**Jadwal Presentasi 🗓️ 20 - 25 April:**
 
 a. Presentasi 1 soal (10 menit + QnA) via Gmeet.
 
@@ -28,7 +28,9 @@ c. Aturan Booking Jadwal: Silahkan chat Aslab untuk menentukan jadwal presentasi
 
 Tidak chat konfirmasi submit = dianggap belum selesai
 
-Submit / revisi GitHub lewat Deadline = tidak diterima
+Tidak terima revisi di GitHub setelah submit link
+
+Submit lewat dari deadline = tidak di terima
 
 #
 **Pengumpulan Tugas**
