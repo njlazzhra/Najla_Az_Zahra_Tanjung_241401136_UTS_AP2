@@ -21,7 +21,8 @@ a. Presentasi 1 soal (10 menit + QnA) via Gmeet.
 
 b. Soal presentasi akan dipilih oleh Asisten Lab.
 
-c. Aturan Booking Jadwal: Silahkan chat Aslab untuk menentukan jadwal presentasi (berlaku jika sudah submit link repo), Aslab tidak menerima request mendadak di hari-H presentasi. Jangan memilih hari terakhir (25 April) untuk menghindari slot penuh.
+c. Aturan Booking Jadwal: Silahkan chat Aslab untuk menentukan jadwal presentasi (berlaku jika sudah submit link repo), Aslab tidak menerima request mendadak di hari-H presentasi. Jangan memilih hari terakhir (25 April) untuk menghindari slot penuh. **Deadline chat aslab : 19 April**
+
 
 #
 **Konsekuensi**
